@@ -1,1 +1,0 @@
-# Detectron2-SAHI
